@@ -7,5 +7,7 @@ https://www.canva.com/design/DAGq4TJJdXg/JS_7Lp85obAfDeTzP8mfoA/edit?utm_content
 
 # Team Members
 Tim Kolesnichenko - Cocktail Control Software
+
 Ashwin Biju & Michael Song - CAD and Hardware Design
+
 Dorian Turner - Electrical Design and Wiring
